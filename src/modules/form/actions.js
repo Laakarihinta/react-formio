@@ -1,4 +1,4 @@
-import Formiojs from 'formiojs';
+import Formiojs from 'kusote-formiojs';
 import * as types from './constants';
 //import { AlertActions } from '../../FormioAlerts/actions';
 

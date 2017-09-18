@@ -1,6 +1,6 @@
 import React, {Component} from 'react';
 import PropTypes from 'prop-types';
-import FormioUtils from 'formiojs/utils';
+import FormioUtils from 'kusote-formiojs/utils';
 import _get from 'lodash/get';
 import {Pagination} from 'react-bootstrap';
 
