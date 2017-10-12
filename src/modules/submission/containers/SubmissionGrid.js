@@ -1,7 +1,7 @@
 import React, {Component} from 'react';
 import PropTypes from 'prop-types';
-import FormioUtils from 'kusote-formiojs/utils';
-import Components from 'kusote-formiojs/build/components';
+import FormioUtils from '@vaana/formiojs/utils';
+import Components from '@vaana/formiojs/build/components';
 import _get from 'lodash/get';
 import Grid from '../../../components/Grid';
 

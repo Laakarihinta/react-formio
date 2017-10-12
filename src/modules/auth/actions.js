@@ -1,4 +1,4 @@
-import formiojs from 'kusote-formiojs';
+import formiojs from '@vaana/formiojs';
 import * as types from './constants';
 
 const requestUser = () => ({

@@ -28,8 +28,8 @@
   },
   "homepage": "https://github.com/formio/react-formio#readme",
   "dependencies": {
+    "@vaana/formiojs": "2.13.7",
     "babel-polyfill": "^6.23.0",
-    "kusote-formiojs": "2.13.6",
     "prop-types": "^15.5.7",
     "react-bootstrap": "^0.31.0",
     "recompose": "^0.23.5",

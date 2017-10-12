@@ -1,6 +1,6 @@
 import React, {Component} from 'react';
 import PropTypes from 'prop-types';
-import {Formio as FormioCore} from 'kusote-formiojs/full';
+import {Formio as FormioCore} from '@vaana/formiojs/full';
 
 export class Formio extends Component {
   static defaultProps = {
