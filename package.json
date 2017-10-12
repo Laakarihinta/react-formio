@@ -1,6 +1,6 @@
 {
-  "name": "laakarihinta-react-formio",
-  "version": "2.0.8",
+  "name": "@vaana/react-formio",
+  "version": "2.0.9",
   "description": "React renderer for form.io forms.",
   "main": "lib/index.js",
   "scripts": {
