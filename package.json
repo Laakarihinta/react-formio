@@ -28,7 +28,7 @@
   },
   "homepage": "https://github.com/formio/react-formio#readme",
   "dependencies": {
-    "@vaana/formiojs": "2.13.7",
+    "@vaana/formiojs": "2.13.8",
     "babel-polyfill": "^6.23.0",
     "prop-types": "^15.5.7",
     "react-bootstrap": "^0.31.0",
